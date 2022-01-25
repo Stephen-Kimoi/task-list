@@ -1,0 +1,25 @@
+.error { 
+    width: 100%; 
+    background: rgb(236, 136, 136); 
+    border: 2px solid rgb(224, 118, 118);  
+    border-radius: 5px; 
+    color: rgb(230, 68, 81);   
+    padding: 10px;  
+    font-size: 18px; 
+    text-align: center; 
+    margin-bottom: 5px;
+} 
+.delete-item {
+    cursor: pointer;
+} 
+#success {
+    width: 100%; 
+    background: rgb(179, 240, 161); 
+    border: 2px solid rgb(167, 231, 158);  
+    border-radius: 5px; 
+    color: rgb(55, 241, 9);   
+    padding: 10px;  
+    font-size: 18px; 
+    text-align: center; 
+    margin-bottom: 5px;
+}
